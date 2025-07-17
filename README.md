@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lindamjs
-- 👀 I’m interested in Data Engineering, Data Science, Data Analytics and Cloud Programming
-- 🌱 I’m currently learning Python for Data Science
+- 👀 I’m interested in Data Engineering, Cloud Programming, Data Science and Machine Learning
+- 🌱 I’m currently learning ML for Data Science
 - 📫 How to reach me linda.mjs@gmail.com
 
 <!---
